@@ -1,3 +1,0 @@
-1. My written lab report is ELEC9721 Assignment Question3 DanniJin.pdf.
-2.My program code is in the assignment.m file in RAGn Files.
-3.Run the assignment.m file in RAGn Files to see my running results.
