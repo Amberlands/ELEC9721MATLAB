@@ -49,7 +49,7 @@ function [de, fixedX, err] = DecimalToFixedPoint(X, I, F)
             if fracBin(i) == '0'
                 fracBin(i) = '1';
                 carry = 0;
-                break;s
+                break;
             else
                 fracBin(i) = '0';
             end
